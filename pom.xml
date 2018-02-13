@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>BAI</groupId>
     <artifactId>MARS</artifactId>
-    <version>3.5</version>
+    <version>1.5</version>
     <packaging>war</packaging>
     <name>myproject</name>
     <properties>
@@ -31,14 +31,14 @@
     </developers>
     <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>deploy</id>
             <name>Internal Releases</name>
-            <url>http://52.201.231.158:8081/repository/maven-releases/</url>
+            <url>http://54.152.180.9:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>deploy</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://52.201.231.158:8081/repository/maven-snapshots/</url>
+            <url>http://54.152.180.9:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
