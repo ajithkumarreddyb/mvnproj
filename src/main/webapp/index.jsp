@@ -6,7 +6,7 @@
         <title>Hello Java EE 70 Continuous Delivery!</title>
     </head>
     <body>
-        <h1> Name:ajith kumar reddy bandi </h1>
+        <h1> My New Apllication </h1>
         <h1> Ph:9966512208 </h1>  
     </body>
 </html>
